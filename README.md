@@ -12,4 +12,4 @@ Install the dependencies from requirement.txt file after creating virtual enviro
 
 ----------------
 
-To learn more please visit http://thepythondjango.com/generating-returning-pdf-response-django/
+To learn more please visit https://www.pythoncircle.com/post/470/generating-and-returning-pdf-as-response-in-django/
